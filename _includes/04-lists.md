@@ -1,3 +1,4 @@
 A list of your favorite things:
--cat
--dog
+- cat
+- dog
+- snail
